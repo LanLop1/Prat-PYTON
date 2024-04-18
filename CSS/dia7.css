@@ -1,0 +1,7 @@
+h2 {
+        background-color: aqua;
+        border: 1px solid black;
+        color: orange;
+    }
+.tei {background-color: black;} 
+/* como ves las letras aunque son todas h2 al elegir la clase le cambio las propiedades, siendo la clase mas específica que el h2 y por tanto reescribe el atributo */
